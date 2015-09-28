@@ -1,5 +1,5 @@
-baseurl = "http://redinger-dressage.s3-website-us-west-2.amazonaws.com/"
+baseurl = "http://redinger-dressage.s3-website-us-west-2.amazonaws.com"
 languageCode = "en-us"
 title = "Redinger Dressage"
-theme = "air"
+theme = "persona"
 
